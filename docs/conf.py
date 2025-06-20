@@ -1,4 +1,4 @@
-project = 'PeacocktvGuide12'
+project = 'download-totaldefense'
 author = 'Your Name'
 release = '1.0'
 
